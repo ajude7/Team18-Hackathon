@@ -1,24 +1,22 @@
 # Team18-Hackathon
 Team 18: Code Repository for Heatmap Hackathon
 
-Final Analyses Folder
 1. .RMD Key Findings
 This file includes the spatial maps used for key findings in the team presentation.
 The LEGEND for these maps can be found in the team slides.
 Plots trauma and burn capacity in nortwestern U.S. and Montana by adult vs pediatric capacity. 
 
-Exploratory Analyses Folder (includes all descriptive and explorative analyses conducted by the team):
-1. Excel Data Dashboard
+2. Excel Data Dashboard
 The first sheet of the Excel spreadsheet contains our team's interactive Data Dashboard. Additional sheets in the Excel file are for functionality of the dashboard.
 This dashboard looks at burn bed distribution throughout the United States by region and state. 
 This dashboard also looks at adult versus pediatric burn capacity and population densities in comparison to burn bed distribution.
 
-2. .RMD Exploratory Spatial Analyses
+3. .RMD Exploratory Spatial Analyses
 This file includes spatial analyses for the broader northwestern U.S. region.
 Maps plot burn and trauma centers by adult versus pediatric capacity, by LVI vs LVII, and by type of verified burn designation (ABA, state-designated, NA).
 Key findings maps in the slide presentation are NOT included in this file.
 
-3. .RMD Montana vs Maine Comparisons
+4. .RMD Montana vs Maine Comparisons
 This file includes comparative bar graphs for healthcare infrastracture in Maine and Montana external to trauma and burn centers.
 
   
